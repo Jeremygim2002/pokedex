@@ -30,5 +30,5 @@ Este es un proyecto simple tipo Pokédex, desarrollado con HTML, CSS y JavaScrip
 📲 Cómo usarlo
 
 1. Clonar el repositorio:  
-   ```bash
+
    git clone https://github.com/Jeremygim2002/pokedex.git
